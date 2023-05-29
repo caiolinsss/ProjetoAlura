@@ -135,7 +135,7 @@ body{
 }
 
 .links_rodape:hover{ 
-    color: #164ef7;
+    color: var(--cor_cinza);
          
 }
 
